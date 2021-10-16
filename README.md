@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on EasyMyTrip Clone
-🌱 I’m currently learning Advance React and Redux
-👯 I’m looking to collaborate on Open Source Project
-💬 Ask me about React, Redux, JavaScript, MongoDB, Express, HTML & CSS.
-📫 Reach me at vipulsoniab17@gmail.com
+*🔭 I’m currently working on EasyMyTrip Clone
+*🌱 I’m currently learning Advance React and Redux
+*👯 I’m looking to collaborate on Open Source Project
+*💬 Ask me about React, Redux, JavaScript, MongoDB, Express, HTML & CSS.
+*📫 Reach me at vipulsoniab17@gmail.com
 
 
 
